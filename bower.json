@@ -1,0 +1,12 @@
+{
+  "name": "xw-polymer",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "paper-elements": "Polymer/paper-elements#~0.4.2"
+  }
+}
