@@ -7,6 +7,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "paper-elements": "Polymer/paper-elements#~0.4.2"
+    "paper-elements": "Polymer/paper-elements#~0.4.2",
+    "core-animated-pages": "Polymer/core-animated-pages#~0.4.2"
   }
 }
