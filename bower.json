@@ -8,6 +8,7 @@
   ],
   "dependencies": {
     "paper-elements": "Polymer/paper-elements#~0.4.2",
-    "core-animated-pages": "Polymer/core-animated-pages#~0.4.2"
+    "core-animated-pages": "Polymer/core-animated-pages#~0.4.2",
+    "core-list": "Polymer/core-list#~0.4.2"
   }
 }
