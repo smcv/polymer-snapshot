@@ -1,0 +1,14 @@
+{
+  "name": "URL",
+  "homepage": "https://github.com/Polymer/URL",
+  "version": "0.4.2",
+  "_release": "0.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.2",
+    "commit": "cf5d82e444d2a029834365a8b9d185fd792227f0"
+  },
+  "_source": "git://github.com/Polymer/URL.git",
+  "_target": "^0.4.0",
+  "_originalSource": "Polymer/URL"
+}

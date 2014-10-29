@@ -1,0 +1,14 @@
+{
+  "name": "tools",
+  "homepage": "https://github.com/Polymer/tools",
+  "version": "0.4.2",
+  "_release": "0.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.2",
+    "commit": "114124b41a5a410554a807656839efb0f9256303"
+  },
+  "_source": "git://github.com/Polymer/tools.git",
+  "_target": "^0.4.0",
+  "_originalSource": "Polymer/tools"
+}
